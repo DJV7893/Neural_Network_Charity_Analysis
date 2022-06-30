@@ -19,10 +19,14 @@ For our analysis we have been tasked by Alphabet Soup's business team to help cr
       
       - Our neural network model is made of two hidden layers with 80 and 30 neurons respectively. The output layer is made of a unique neuron as it's a           binary classification. To speed up the training process the activation function ReLU is used for the hidden layers. As our output is a                     binary classification, Sigmoid is used on the output layer. For the compilation, the optimizer is adam and the loss function is                             binary_crossentropy.
       - The target performance for the model was 75% but the best the model could achieve was 72.8%.
-      - 
+      - To try to surpass the target performance we: applied bucketing to the feature ASK_AMT and the different values were organized by intervals, We             increased the number of neurons on one of the hidden layers and then added layers to have three hidden layers and finally used a different                 activation function (tanh). In the end, none of these steps helped to push the model past the 75% threshold.
 
 ---
 ## Summary:
+---
+
+
+
 ---
 
 Data Source: 
