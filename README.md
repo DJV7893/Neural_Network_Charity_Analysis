@@ -29,6 +29,6 @@ Our deep learning neural-network model did not reach our target performance of 7
 
 ---
 
-Data Source: 
+Data Source: [charity_data.csv.zip](https://github.com/DJV7893/Neural_Network_Charity_Analysis/files/9021038/charity_data.csv.zip)
 
 Software: Jupyter Notebook 6.4.8, Python 3.7.13
