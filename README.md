@@ -17,9 +17,9 @@ For our analysis we have been tasked by Alphabet Soup's business team to help cr
       
    2. Compiling, Training, and Evaluating the Model
       
-      A. Our neural network model is made of two hidden layers with 80 and 30 neurons respectively. The output layer is made of a unique neuron as it's a            binary classification. To speed up the training process the activation function ReLU is used for the hidden layers. As our output is a                      binary classification, Sigmoid is used on the output layer. For the compilation, the optimizer is adam and the loss function is                            binary_crossentropy.
-      B. The target performance for the model was 75% but the best the model could achieve was 72.8%.
-      C.
+      - Our neural network model is made of two hidden layers with 80 and 30 neurons respectively. The output layer is made of a unique neuron as it's a           binary classification. To speed up the training process the activation function ReLU is used for the hidden layers. As our output is a                     binary classification, Sigmoid is used on the output layer. For the compilation, the optimizer is adam and the loss function is                             binary_crossentropy.
+      - The target performance for the model was 75% but the best the model could achieve was 72.8%.
+      - 
 
 ---
 ## Summary:
