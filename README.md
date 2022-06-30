@@ -11,9 +11,9 @@ For our analysis we have been tasked by Alphabet Soup's business team to help cr
 
    1. Data Preprocessing:
 
-      A. The column IS_SUCCESSFUL contains binary data classifying wether or not the charity donation was used effectively. Accordingly, this variable is            considered as the target for our deep learning neural network.
-      B. The columns; APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT are the            features for our model.
-      C. The columns EIN and NAME are identification information and are therefore considered neither features nor target(s) and are removed from the input          data.
+      - The column IS_SUCCESSFUL contains binary data classifying wether or not the charity donation was used effectively. Accordingly, this variable is           considered as the target for our deep learning neural network.
+      - The columns; APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT are the             features for our model.
+      - The columns EIN and NAME are identification information and are therefore considered neither features nor target(s) and are removed from the input         data.
       
    2. Compiling, Training, and Evaluating the Model
       
