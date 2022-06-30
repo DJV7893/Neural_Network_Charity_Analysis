@@ -25,7 +25,7 @@ For our analysis we have been tasked by Alphabet Soup's business team to help cr
 ## Summary:
 ---
 
-Our deep learning neural-network model did not reach our target performance of 75% accuracy, only reach at it's peak performance 72.8% while using various numbers of neurons, hidden layers, and different activation functions. Since our present constraints involve binary classification, we should use a supervised machine learning model specifically a Random Forest Classifier because it's less influenced by outliers and could improve our accuracy performance. With a multitude of decision tress we can generate a classified output and evaluate its performance against our deep learning model.
+Our deep learning neural-network model did not reach our target performance of 75% accuracy, only reach at it's peak performance 72.8% while using various numbers of neurons, hidden layers, and different activation functions. Since our present constraints involve binary classification, we should use a supervised machine learning model specifically a Random Forest Classifier because it's less influenced by outliers and could improve our accuracy performance. With a multitude of decision tress we can generate a classified output and evaluate its performance with our neural-network model.
 
 ---
 
